@@ -1,0 +1,59 @@
+Logs Actividad 1
+
+A continuación se muestran todos los logs registrados en el repositorio de la Actividad 1:
+
+commit 258cbe6ef3d6fa14457bc3ed196b9e500cdcf153 (HEAD -> master, origin/master)
+Merge: 54943cd 48e9703
+Author: Chava27 <chavasalgado27@gmail.com>
+Date:   Thu May 6 18:12:07 2021 -0500
+
+    fusion
+
+commit 48e97035a6634307c898cd0d9d13eb22c30b434f (Rama_Chava_27)
+Author: Chava27 <chavasalgado27@gmail.com>
+Date:   Thu May 6 18:09:19 2021 -0500
+
+    Correción Ciculo
+commit 54943cd06bc11bd5299f05905d253abf143c83ed
+Author: Chava27 <chavasalgado27@gmail.com>
+Date:   Thu May 6 16:50:06 2021 -0500
+
+    Crear archivo con logs
+
+commit a24dfa57fb7d1082b9371a6e29b0918b58771982 (HEAD -> master, origin/master)
+Author: Chava27 <chavasalgado27@gmail.com>
+Date:   Thu May 6 16:36:23 2021 -0500
+
+    Commit correción turtle
+
+commit efdf58abf94ca66727ada7c373b678f4e80b165d
+Merge: 355b884 7766db9
+Author: Chava27 <chavasalgado27@gmail.com>
+Date:   Thu May 6 16:24:51 2021 -0500
+
+    Merge branch 'Rama_Chava_27'
+    Ahora que se he logrado identificar como dibujar distintos circulos en
+    cualquier punto y con distintos radios, es necesario combinarlo en la
+    rama maestra.
+
+commit 7766db9ebdd9fa07fcef6f95cc7fce56857260ea (Rama_Chava_27)
+Author: Chava27 <chavasalgado27@gmail.com>
+Date:   Thu May 6 16:23:09 2021 -0500
+
+    Commit_2_Chava_27
+
+commit 355b88402b1a9d53a1efca96dd566fd3b17425a3
+Author: Jorge-TL <a01367223@itesm.mx>
+Date:   Thu May 6 12:55:51 2021 -0500
+
+    Commit 1_Jorge-TL
+
+commit 3ab23d08ea05d4da5d4d0734e4573896be601864
+Author: Chava27 <chavasalgado27@gmail.com>
+Date:   Thu May 6 12:23:00 2021 -0500
+
+    Commit_1 Chava_27
+
+commit 53b68c0a19a4b9c983c1283e0703dc3374295b03
+:
+
